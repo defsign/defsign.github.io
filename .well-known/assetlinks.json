@@ -1,0 +1,14 @@
+[
+    {
+      "relation": [
+        "delegate_permission/common.handle_all_urls"
+      ],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.sign.anime_pad",
+        "sha256_cert_fingerprints": [
+          "BC:B9:86:94:90:B9:11:9D:E3:11:88:54:D9:6C:CD:55:5B:43:B1:0F:8A:FF:1B:19:36:03:F8:AE:29:6A:45:91"
+        ]
+      }
+    }
+  ]
